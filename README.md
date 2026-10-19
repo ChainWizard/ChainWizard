@@ -1,70 +1,37 @@
-<div align="center">
+# Hi, I'm ChainWizard 👋
 
-# ⚠️ CHAINWIZARD
+### Blockchain Developer · Wallet Specialist
 
-```text
-> Access Granted.
-> Web3 Systems Online.
-> Wallet Engine Armed.
-```
+专注区块链生态与钱包开发，深耕 **EVM、Solana 和 TRON**。
 
-</div>
+熟练使用 **JavaScript、Solidity、Rust 和 Go**，致力于构建安全、易用的链上产品。
 
 ---
 
-## 🩸 Profile
+### About Me
 
-I build **high-risk, high-performance Web3 systems**.
+- ⛓️ 专注 EVM、Solana、TRON 等区块链生态
+- 👛 精通钱包开发，关注资产安全与用户体验
+- 🛠️ 使用 JavaScript、Solidity、Rust、Go 进行开发
+- 🌱 持续探索多链应用与区块链基础设施
 
-- Smart Contracts that settle real value
-- Wallet infrastructure that survives bad assumptions
-- Frontend UX for users, backend architecture for scale
-- Go/Rust services for throughput, reliability, and control
+### Tech Stack
 
----
+**Languages**
 
-## ☠️ Core Stack
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Solidity](https://img.shields.io/badge/Solidity-363636?style=flat-square&logo=solidity&logoColor=white)
+![Rust](https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)
 
-### Frontend
-`React` `Next.js` `TypeScript` `React Native` `Zustand`
+**Ecosystems**
 
-### Smart Contract / Chain
-`Solidity` `Foundry` `Hardhat` `EVM` `On-chain Events`
+`EVM` · `Solana` · `TRON`
 
-### Backend
-`Go` `Rust` `REST` `gRPC` `Async Jobs` `Caching`
+### Connect
 
-### Wallet / Crypto Infra
-`Signing Flows` `Transaction Parsing` `Multi-chain` `Risk-aware Design`
-
----
-
-## 🔥 What I Ship
-
-- DApps with real business logic
-- Wallet transaction engines
-- Contract + backend integration pipelines
-- On-chain intelligence and monitoring tools
+[![GitHub](https://img.shields.io/badge/GitHub-ChainWizard-181717?style=flat-square&logo=github)](https://github.com/ChainWizard)
 
 ---
 
-## 🧠 Engineering Doctrine
-
-- **Security first, always**
-- **No fake abstractions**
-- **Measure. Optimize. Repeat.**
-- **If it touches money, it must be auditable**
-
----
-
-## 🚨 Current Ops
-
-- Token transfer accuracy (recipient / amount parsing)
-- Contract-backend consistency under real traffic
-- Rust/Go performance paths for wallet services
-
----
-
-## 🕳️ Motto
-
-> **From signature to settlement. No room for guesswork.**
+*Building wallets. Connecting chains.*
