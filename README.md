@@ -1,19 +1,19 @@
-# Hi, I'm ChainWizard 👋
+Hi, I'm ChainWizard 👋
 
 ### Blockchain Developer · Wallet Specialist
 
-专注区块链生态与钱包开发，深耕 **EVM、Solana 和 TRON**。
+Blockchain developer specializing in wallet development across the **EVM, Solana, and TRON** ecosystems.
 
-熟练使用 **JavaScript、Solidity、Rust 和 Go**，致力于构建安全、易用的链上产品。
+I work with **JavaScript, Solidity, Rust, and Go** to build secure, user-friendly blockchain products.
 
 ---
 
 ### About Me
 
-- ⛓️ 专注 EVM、Solana、TRON 等区块链生态
-- 👛 精通钱包开发，关注资产安全与用户体验
-- 🛠️ 使用 JavaScript、Solidity、Rust、Go 进行开发
-- 🌱 持续探索多链应用与区块链基础设施
+- ⛓️ Focused on the EVM, Solana, and TRON ecosystems
+- 👛 Specialized in wallet development, with an emphasis on asset security and user experience
+- 🛠️ Working with JavaScript, Solidity, Rust, and Go
+- 🌱 Exploring multichain applications and blockchain infrastructure
 
 ### Tech Stack
 
